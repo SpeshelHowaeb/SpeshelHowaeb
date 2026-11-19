@@ -3,6 +3,12 @@
 
 ### 💻 Software Engineering Student | Aspiring Full-Stack Developer
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Aspiring+Full-Stack+Developer;C%2B%2B+%7C+PHP+%7C+JavaScript+%7C+Python;Building+Projects+One+Commit+at+a+Time" />
+</p>
+
+
+
 Welcome to my GitHub! I'm a software engineering student passionate about programming, technology, problem-solving and building practical software solutions.
 
 I enjoy exploring different programming languages, developing applications, working with databases and continuously improving my skills.
