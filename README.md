@@ -86,3 +86,13 @@ I enjoy exploring different programming languages, developing applications, work
   <br>
   One commit at a time 🚀
 </p>
+
+
+---
+
+## 🐍 My Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SpeshelHowaeb/SpeshelHowaeb/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
